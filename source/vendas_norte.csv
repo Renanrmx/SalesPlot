@@ -1,0 +1,15 @@
+IdVenda,Data,Regiao,Vendedor,Produto,Categoria,Quantidade,ValorUnitario
+1,2024-03-01,Região A,João,Produto A,Categoria A,8,50.00
+1,2024-03-01,Região A,João,Produto B,Categoria B,5,100.00
+1,2024-03-01,Região A,João,Produto A,Categoria A,4,50.00
+2,2024-03-02,Região A,Carlos,Produto C,Categoria C,7,120.50
+2,2024-03-02,Região A,Carlos,Produto A,Categoria A,8,50.00
+3,2024-03-03,Região A,Fernanda,Produto A,Categoria A,6,50.00
+3,2024-03-03,Região A,Fernanda,Produto B,Categoria B,9,100.75
+4,2024-03-04,Região A,Luiz,Produto C,Categoria C,5,110.20
+4,2024-03-04,Região A,Luiz,Produto A,Categoria A,9,50.00
+5,2024-03-05,Região A,João,Produto A,Categoria A,9,50.00
+5,2024-03-05,Região A,João,Produto B,Categoria B,5,100.75
+5,2024-03-05,Região A,João,Produto C,Categoria C,3,110.20
+6,2024-03-06,Região A,Sabrina,Produto B,Categoria B,8,100.75
+6,2024-03-06,Região A,Sabrina,Produto C,Categoria C,5,110.20
